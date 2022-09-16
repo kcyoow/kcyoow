@@ -1,6 +1,6 @@
 # 안녕하세요!
 ## 개발자 김철연입니다!
-[![kcyoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcyoow)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcyoow&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kcyoow/kcyoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
